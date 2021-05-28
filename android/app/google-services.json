@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1097474870206",
+    "project_id": "nepquiz-d57f0",
+    "storage_bucket": "nepquiz-d57f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097474870206:android:9c06cd3d9dfcf254c607ef",
+        "android_client_info": {
+          "package_name": "com.himal.nepquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097474870206-krg2fafkjvf49lni98mtlptfa87qlmvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6GwHKX1EmzI2zww7qgS88yQdDaFBGBQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097474870206-krg2fafkjvf49lni98mtlptfa87qlmvk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097474870206-u8v8k7d35pc28n99rgn19fem4utqd912.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.himal.nepquiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
