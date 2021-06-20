@@ -35,6 +35,7 @@ dependencies:
   font_awesome_flutter: 
   google_fonts: 
   shared_preferences: 
+  flutter_neumorphic: 
   
 dev_dependencies:
   flutter_test:

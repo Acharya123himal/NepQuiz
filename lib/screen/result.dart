@@ -14,7 +14,7 @@ class _ResultState extends State<Result> {
       onWillPop: () async {
         setState(() {
           valueReset();
-          Navigator.pushReplacementNamed(context, 'init');
+          Navigator.pushReplacementNamed(context, '/');
         });
         return true;
       },

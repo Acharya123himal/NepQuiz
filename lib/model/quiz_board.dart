@@ -6,7 +6,6 @@ import 'question.dart';
 Future<Question> quizOrder() async {
   var url = Uri.http(
       "opentdb.com", '/api.php?amount=50&type=multiple&encode=url3986');
-  print(url);
   final response = await https.get(url);
   if (response.statusCode == 200) {
     final result = jsonDecode(response.body);
